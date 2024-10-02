@@ -1,0 +1,25 @@
+js
+
+dato: uno de los aspectos basicos que utiliza un programa, 
+como una letra o numero 
+
+variable: es un nombre que se refiere a un dato
+
+reglas de las variables:
+no pueden iniciar con numeros
+no pueden llevar caracteres especiales 
+no pueden llevar el nombre de palabras reservadas
+
+tipos de datos:
+numericos 
+cadenas
+booleanos
+
+la calculadora tiene que llevar 
+suma 
+resta 
+multiplicación 
+división 
+potenciación 
+raíz cuadrada
+CE
